@@ -1,0 +1,7 @@
+D:\course\github\session1\linq1\bin\Debug\linq1.exe.config
+D:\course\github\session1\linq1\bin\Debug\linq1.exe
+D:\course\github\session1\linq1\bin\Debug\linq1.pdb
+D:\course\github\session1\linq1\obj\Debug\linq1.csprojAssemblyReference.cache
+D:\course\github\session1\linq1\obj\Debug\linq1.csproj.CoreCompileInputs.cache
+D:\course\github\session1\linq1\obj\Debug\linq1.exe
+D:\course\github\session1\linq1\obj\Debug\linq1.pdb
